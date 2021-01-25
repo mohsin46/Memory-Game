@@ -1,0 +1,40 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+
+.image {
+  width: 250px;
+  height: 200px;
+  padding: 10px;
+  margin: 1.5%;
+}
+
+.imageclick {
+  box-shadow: 0 3px 4px 0 #d3d3d3;
+  opacity: 0.75;
+}
+
+.play-button{
+  font-family: cursive;
+  font-weight: bold;
+  position: absolute;
+  bottom: 7.5%;
+  padding: 7px 25px;
+
+}
+
+.container {
+  max-width: 100%;
+  position: absolute;
+  left: 32.5%;
+  top: 16%;
+}
+
+h1 {
+  font-family: cursive;
+  font-weight: bold;
+  font-size: 5rem;
+  color: red;
+  margin-top: 14px;
+}
